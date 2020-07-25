@@ -30,7 +30,7 @@ To get a copy of this solution fork the repository. On the upper right there is 
 
 ## Overview
 
-This repository contains the technical aspects of Data Science Core IP submission week 4 as outlined above. The project applies the univariate and bivariate analysis, sampling techniques and hypothesis testing procedures to answer the question above.
+This repository contains the technical aspects of Data Science Core IP submission week 6 as outlined above. The project applies the regression techniques learnt as well as feature engineering, cross validation, heteroskedasticity test and hyperparameter tuning. The notebook can be accessed above or through the [link](https://colab.research.google.com/drive/1aWLq6cTCed6L_M1jD6NHlSOTWkTx-zo2?usp=sharing) provided.
 
 ## Files in the Repository
 
