@@ -1,4 +1,4 @@
-# Moringa_autolib
+#Regression Analysis
 
 This repository contains the results and technical aspects  of the Data Science Core IP "You have been recruited as a football analyst in a company - Mchezopesa Ltd and tasked to accomplish the task below.
 
